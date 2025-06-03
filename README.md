@@ -14,7 +14,7 @@ Após o sucesso do sistema CLI desenvolvido para o Grupo World Beauty (WB), surg
     
     ```
     
-2. Navegue até o diretório do projeto:
+2. Navegue até o diretório:
     
     ```bash
     cd atvii-wb
@@ -28,7 +28,7 @@ Após o sucesso do sistema CLI desenvolvido para o Grupo World Beauty (WB), surg
     
     ```
     
-4. Execute o projeto:
+4. Execute:
     ```bash
     npm start
     
