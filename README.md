@@ -1,4 +1,4 @@
-# ATVI-WB
+# ATVII-WB
 Trabalho prático da disciplina Programação Orientada a Objetos, lecionada pelo professor [Gerson da Penha Neto](https://github.com/gerson-pn).
 
 ## Atividade:
